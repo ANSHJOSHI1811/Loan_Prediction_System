@@ -33,18 +33,19 @@ In the banking sector, efficient and accurate credit risk assessment is crucial.
    git clone https://github.com/yourusername/LoanPredictionSystem.git
 2.Navigate to the project directory:
      ```shell
-   cd LoanPredictionSystem
+     cd LoanPredictionSystem   ```
 3.Install Python packages:
   ```shell
-  pip install -r requirements.txt  ```
+  pip install -r requirements.txt ```
 
 4.Activate the virtual environment:
   ```shell
 source ./venv/bin/activate   ```
 
 5.Run the Django server:
-  ```shell
+   ```shell
 python manage.py runserver   ```
+
 
 ## Contributions
 1. [Ansh Joshi](https://github.com/ANSHJOSHI1811)
