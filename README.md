@@ -36,15 +36,16 @@ In the banking sector, efficient and accurate credit risk assessment is crucial.
      cd LoanPredictionSystem   ```
 3.Install Python packages:
   ```shell
-  pip install -r requirements.txt ```
-
+  pip install -r requirements.txt
+ ```
 4.Activate the virtual environment:
   ```shell
-source ./venv/bin/activate   ```
-
+source ./venv/bin/activate
+```
 5.Run the Django server:
    ```shell
-python manage.py runserver   ```
+python manage.py runserver
+```
 
 
 ## Contributions
